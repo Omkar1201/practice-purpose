@@ -1,6 +1,10 @@
 this is first file
 
-git push origin main
-here origin is name of remote url 
-and main is my branch
-meaning of above command is push main branch to origin
+1.git push origin main
+    here origin is name of remote url 
+    and main is my branch
+    meaning of above command is push main branch to origin
+
+2.git push -u origin main
+    -u sets upstream 
+    means whenever we use only "git push" it will push to the origin
