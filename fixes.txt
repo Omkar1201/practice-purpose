@@ -1,1 +1,2 @@
 bug 1 is fixed
+bug 2 is fixed
