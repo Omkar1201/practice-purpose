@@ -8,3 +8,5 @@ this is first file
 2.git push -u origin main
     -u sets upstream 
     means whenever we use only "git push" it will push to the origin
+
+some content is added
